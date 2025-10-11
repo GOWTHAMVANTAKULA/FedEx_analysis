@@ -44,3 +44,13 @@ This project analyzes FedEx Logistics data (10,324 rows, 33 columns) to identify
 
 **🧠 Conclusion**
 The EDA provided actionable insights to improve cost efficiency, vendor performance, and delivery accuracy. FedEx can leverage these findings to implement data-driven logistics strategies, optimize freight operations, and enhance customer satisfaction—ensuring sustainable growth and operational excellence in its global supply chain.
+
+**Tools & Technologies**
+* Python – Data analysis and preprocessing
+* Pandas – Data manipulation
+* NumPy – Numerical operations
+* Matplotlib – Data visualization
+* Seaborn – Data visualization
+* Google Colab – Interactive coding and analysis
+* Excel/CSV – Raw data source
+*GitHub – Project repository
